@@ -1,0 +1,3 @@
+"0",""
+"0","# Insignificant correlations are leaved blank"
+"0","corrplot(res2$r, type=""lower"", order=""hclust"", p.mat = res2$P, sig.level = 0.05, insig = ""blank"")"

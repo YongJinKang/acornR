@@ -1,0 +1,24 @@
+{
+    "id": "88340ED2",
+    "path": "C:/app/Workspace/R/ex01/RMarkdown/RMD_20200803/6-4. Unpaired Two-Sample_Wilcoxon_Test.Rmd",
+    "project_path": "RMarkdown/RMD_20200803/6-4. Unpaired Two-Sample_Wilcoxon_Test.Rmd",
+    "type": "r_markdown",
+    "hash": "2970707454",
+    "contents": "",
+    "dirty": false,
+    "created": 1602465332110.0,
+    "source_on_save": false,
+    "relative_order": 17,
+    "properties": {
+        "cursorPosition": "5,286",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1596367628,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1596367628,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,16 @@
+library(ggplot2)
+library(readxl)
+df_re <- read_excel("./Data/seoul_apartment_combinated.xlsx")
+df_re
+head(df_re)
+tail(df_re)
+View(df_re)
+dim(df_re)
+str(df_re)
+summary(df_re)
+library(dplyr)
+hist(df_re$`kosave`)
+library(ggplot2)
+ggplot(data = df_re, aes(x =date,y=kosave)) + geom_line()
+ggplot(data = df_re, aes(x =date,y=apt_index)) + geom_line()
+  

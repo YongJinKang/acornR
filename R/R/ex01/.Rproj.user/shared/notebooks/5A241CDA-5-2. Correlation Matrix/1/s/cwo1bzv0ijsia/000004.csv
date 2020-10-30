@@ -1,0 +1,4 @@
+"0","library(Hmisc, quietly = TRUE)"
+"0",""
+"0","res2 <- rcorr( as.matrix( mtcars[ ,1:7] ) )"
+"0","flattenCorrMatrix(res2$r, res2$P)"

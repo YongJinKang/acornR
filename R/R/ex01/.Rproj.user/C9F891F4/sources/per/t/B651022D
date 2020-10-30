@@ -1,0 +1,32 @@
+{
+    "id": "B651022D",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1602474685765.0,
+    "source_on_save": false,
+    "relative_order": 30,
+    "properties": {
+        "expression": "ToothGrowth",
+        "caption": "ToothGrowth",
+        "totalObservations": 60,
+        "displayedObservations": 60,
+        "variables": 3,
+        "cacheKey": "C391587B",
+        "object": "ToothGrowth",
+        "environment": "package:datasets",
+        "contentUrl": "grid_resource/gridviewer.html?env=package%3Adatasets&obj=ToothGrowth&cache_key=C391587B&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1596367624,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1602474685765,
+    "read_only": false,
+    "read_only_alternatives": []
+}

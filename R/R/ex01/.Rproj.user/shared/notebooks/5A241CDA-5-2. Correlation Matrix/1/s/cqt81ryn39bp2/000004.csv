@@ -1,0 +1,8 @@
+"0","library(corrplot)"
+"0",""
+"0","# corrplot{corrplot} : A visualization of a correlation matrix."
+"0","#   res : correlation matrix"
+"0","#   type : type of matrix to plot, c('full', 'lower', 'upper')"
+"0","#   tl.col : text label color"
+"0","#   tl.srt : text label string rotation in degrees"
+"0","corrplot(res, type = ""upper"", order = ""hclust"", tl.col = ""black"", tl.srt = 45)"
